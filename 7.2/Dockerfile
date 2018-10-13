@@ -14,6 +14,7 @@ RUN apt-get update && DEBIAN_FRONTEND=noninteractive \
 	php-mysql \
 	php-sqlite3 \
 	php-xdebug \
+	php-zip \
 	zip \
 	unzip \
 	git
